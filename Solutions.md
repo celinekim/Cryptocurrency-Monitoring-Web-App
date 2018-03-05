@@ -1,3 +1,6 @@
+*Note: Final compiled static HTML is in build/ directory*  
+*Or on my personal website (if avaliable): [https://monus.domh.ca/](https://monus.domh.ca/)*
+
 The end user for our application is someone who has an interest in cryptocurrency. 
 
 Features of our web application:
